@@ -10,8 +10,8 @@ def using_uniq(array)
  array.uniq()
 end
 
-def using_flatten(array, array2, array3)
-  array.flatten(array2, array3)
+def using_flatten(array, array2)
+  array.flatten(array2)
 end
 
 def using_delete(array, string)
